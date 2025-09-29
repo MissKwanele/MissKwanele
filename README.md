@@ -8,7 +8,7 @@ My projects focus on **low-resource NLP, ML deployment, and secure ML systems**.
 
 ## 🚀 Featured Projects  
 
-🔹 [Multilabel Emotion Classifier](link-to-repo) — Fine-tuned AfriBERTa/XLM-R for Bantu languages (isiZulu, isiXhosa, Kiswahili).  
+🔹 [Multilabel Emotion Classifier](View-my-repos) — Fine-tuned AfriBERTa/XLM-R for Bantu languages (isiZulu, isiXhosa, Kiswahili).  
  
 
 ---
