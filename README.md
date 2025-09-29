@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I’m Nonkululeko (Kwanele) Ntshele  
 
-<!--
-**MissKwanele/MissKwanele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Data Science | NLP | Machine Learning**  
+I’m a Computer Scientist and Honours researcher pivoting into applied ML/NLP.  
+My projects focus on **low-resource NLP, ML deployment, and secure ML systems**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects  
+
+🔹 [Multilabel Emotion Classifier](link-to-repo) — Fine-tuned AfriBERTa/XLM-R for Bantu languages (isiZulu, isiXhosa, Kiswahili).  
+ 
+
+---
+
+## 🛠 Skills  
+**Languages**: Python, SQL, JavaScript  
+**ML/NLP**: Hugging Face, PyTorch, scikit-learn, TensorFlow (familiar)  
+**Tools**: Docker, FastAPI, MLflow/DVC, Tableau, Git  
+
+---
+
+📫 **Let’s connect:** [www.linkedin.com/in/nonku-ntshele-a344a9203] | [Kaggle link] | [Portfolio link if you add one]
